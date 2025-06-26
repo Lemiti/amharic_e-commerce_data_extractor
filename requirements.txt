@@ -6,3 +6,6 @@ emoji
 dotenv
 clean-text
 datasets
+transformers
+seqeval
+torch
